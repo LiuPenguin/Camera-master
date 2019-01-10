@@ -24,6 +24,8 @@
      applicationWillResignActive
 
      第二次测试
+
+     第三次测试
      */
     return YES;
 }
