@@ -116,7 +116,7 @@
 }
 
 - (void)initAVCaptureSession{
-    
+    //这是个git测试
     self.session = [[AVCaptureSession alloc] init];
     
     NSError *error;
