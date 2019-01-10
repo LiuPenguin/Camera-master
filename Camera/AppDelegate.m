@@ -19,6 +19,12 @@
     // Override point for customization after application launch.
     //这个有个测试文件
     //是个git代码仓库
+    /*
+
+     applicationWillResignActive
+
+     
+     */
     return YES;
 }
 
