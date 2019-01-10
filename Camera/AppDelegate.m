@@ -23,7 +23,7 @@
 
      applicationWillResignActive
 
-     
+     第二次测试
      */
     return YES;
 }
